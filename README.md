@@ -7,7 +7,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/k-aniket47?label=Follow&style=social)
 
     
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1235346/screenshots/3252385/job.gif">
+<img align="right" alt="coding" width="370" src="https://cdn.dribbble.com/users/1235346/screenshots/3252385/job.gif">
 
 
 - 🔭 I’m currently working on Machine Learning & Deep Learning.
