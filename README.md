@@ -11,7 +11,7 @@
 
 
 - 🔭 I’m currently working on Machine Learning & Deep Learning.
-- 🌱 I’m currently learning MERN Stack.
+- 🌱 I’m currently learning DSA and MERN Stack.
 - 💬 Ask me about Data Science.
 - 🤝 Looking forward to collaborate on Projects related to Deep Learning, Machine Learning & Computer Vision.
 - 📫 How to reach me: **aniketch345@gmail.com**
