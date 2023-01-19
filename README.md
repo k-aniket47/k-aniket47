@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aniket Kumar.</h1>
 <h3 align="center">Being myself, but always the better version.</h3
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=k-aniket47&label=Profile%20views&color=0e75b6&style=flat" alt="k-aniket47" /> </p>
+<p align="left"> <img alt = "profile views" src="https://komarev.com/ghpvc/?username=k-aniket47&color=brightgreen">   </p>
 
 [![Linkedin: Aniket](https://img.shields.io/badge/-Aniket-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/aniket-kumar-a4a132230/)](https://https://www.linkedin.com/in/aniket-kumar-a4a132230/)
-[![GitHub followers](https://img.shields.io/github/followers/k-aniket47?label=Follow&style=social)
-<img alt = "profile views" src="https://komarev.com/ghpvc/?username=k-aniket47&color=brightgreen">  
+![GitHub followers](https://img.shields.io/github/followers/k-aniket47?label=Follow&style=social)
+
     
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1235346/screenshots/3252385/job.gif">
 
